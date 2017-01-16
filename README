@@ -1,0 +1,14 @@
+README
+
+1)The only file that should be oppened and runned is PS0.java and main method is the method that user plays as api. 
+2) The rest of the files were not changed from what professor 
+provided us.
+3) In PS0.java, the main function is the last function of the code.
+4) test cases for  the tree functions are provided.
+Those three functions are : canGetThere, fastestItinerary and travelTime.
+5) User can change the input of the functions in the main method. 
+6) If you encounter any difficuly please contact me at 617-335-5015 or email: nabian.m@husky.neu.edu
+
+Thank you 
+Mohsen Nabian
+
